@@ -18,6 +18,7 @@ Welcome to my GitHub profile! I’m a passionate Senior Android Engineer, focuse
 
 - [AboutMe](https://github.com/rajdeepvaghela/AboutMe): Curated profile and portfolio app.
 - [Wedding Invitation](https://github.com/rajdeepvaghela/Wedding-Invitation): Android app for creating and sharing digital wedding invitations.
+- [BatteryTools](https://github.com/rajdeepvaghela/BatteryTools): Prevent theft with instant unplug alarms and alerts across Android and Wear OS.
 - [ValuePickerSlider](https://github.com/rajdeepvaghela/ValuePickerSlider): A customizable slider for picking values elegantly.
 - [ViewSlider](https://github.com/rajdeepvaghela/ViewSlider): Smoothly animate between views on Android.
 - [VerticalStepper](https://github.com/rajdeepvaghela/VerticalStepper): Create step-by-step UIs with ease on Android.

@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m a passionate Senior Android Engineer, focuse
 ## 🚀 About Me
 
 - 💼 Senior Android Engineer
-- 💡 Expertise in building cross-platform and native Android apps
+- 💡 Expertise in native Android apps and building cross-platform using CMP
 - 🌱 Always learning, experimenting, and sharing knowledge with the community
 
 ## 🛠️ Skills
